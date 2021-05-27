@@ -2,7 +2,7 @@
 
 ## Local Setup
 
-1.Intall pipenv
+1.Install pipenv
 ```bash
 pip install pipenv
 ```
